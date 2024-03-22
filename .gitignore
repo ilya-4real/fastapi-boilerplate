@@ -1,0 +1,11 @@
+.python-version
+.venv
+.idea
+**/.env
+**/.test.env
+**__pycache__**
+**cache**
+.vscode
+Makefile
+htmlcov
+.coverage
